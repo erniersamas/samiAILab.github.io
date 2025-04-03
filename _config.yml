@@ -1,2 +1,2 @@
 name: Sámi AI Lab
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@master"
