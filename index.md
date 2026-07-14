@@ -65,6 +65,7 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 
 ![Sámi Tabletop Roleplaying Game pages depicting rules, images, and text generated using cultural inputs from fine-tuned models. The layouts are made using Homebrewery, and thus have a similar appearance to pages in a Dungeons and Dragons roleplaying game rulebook.](assets/images/2026-04-20_13h35_05.png "Pages from the Sámi TTRPG depicting high-fantasy portrayals of characters inspired by Sámi folklore and designs"){: .align-center width="80%"}
 
+* Master thesis in Computer Science at UiT by Kevin Mathias Bergan: *Improving the cultural representativeness of generative image models* (not available in the archives yet). Kevin received the Árdna award for the best thesis about Sámi or indigenous issues in 2026. ([Får Árdnaprisen for å gjøre KI mer treffsikker på samisk kultur](https://uit.no/nyheter/artikkel?p_document_id=932994))
 * Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
 
 In the news: NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140), Anaráš aavis:[Kielâteknologia puohháid: LT4ALL-konferens Pariisist](https://www.anarasaavis.fi/2025/03/03/kielateknologia-puohhaid-lt4all-konferens-pariisist/).
